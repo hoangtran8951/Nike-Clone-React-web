@@ -1,6 +1,4 @@
 /* eslint-disable no-unused-vars */
-
-import { current } from '@reduxjs/toolkit';
 import _ from 'lodash'
 import toast from 'react-hot-toast';
 
