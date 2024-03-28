@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
     "@fortawesome/fontawesome-free": "6.5.1",
     "@heroicons/react": "^2.1.1",
     "@material-tailwind/html": "^2.2.2",
@@ -41,7 +43,8 @@
     "vite": "^5.2.0"
   },
   "engines": {
-    "node": "14.17.5"
+    "node": "14.17.5",
+    "npm": "9.5.1"
   }
 }
 
